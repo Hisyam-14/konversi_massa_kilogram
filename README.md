@@ -17,4 +17,5 @@ Jika user input g maka angka yang di input user dikali dengan 1000. Setelah dika
 
 Jika user tidak menginput dari ketiga satuan di atas(lb / ons / g) maka user disuruh untuk menginput lb / ons / g lagi
 
-![image](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/2096540e-8d5a-4c47-80c5-4e86cb1e67be)
+![image](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/5347b73c-8499-43e3-b68e-6ec9f56a0266)
+
