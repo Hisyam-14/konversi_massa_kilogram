@@ -1,5 +1,6 @@
 # konversi_massa_kilogram
-![konversi satuan massa killogram drawio](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/08a9fcca-bc1f-48a1-89dc-3b0afae10036)
+
+![konversi satuan massa killogram drawio (1)](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/f6a79b20-803b-4ef3-810a-099b45b20a88)
 
 User input nama, nim, dan password 
 
@@ -17,5 +18,6 @@ Jika user input g maka angka yang di input user dikali dengan 1000. Setelah dika
 
 Jika user tidak menginput dari ketiga satuan di atas(lb / ons / g) maka user disuruh untuk menginput lb / ons / g lagi
 
-![image](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/5347b73c-8499-43e3-b68e-6ec9f56a0266)
+![image](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/1ff4761b-22f3-41f4-9f27-0581d171ba84)
+
 
