@@ -26,10 +26,10 @@ def login():
             print("Data yang anda masukkan salah")
 
 print("======================================")
-print("               LOGIN                  ")
+print("                LOGIN                 ")
 login()
 print("======================================")
-
+print("               KONVERSI               ")
 kg = float(input("Masukkan massa dalam kilogram(kg) : "))
 while True:
     satuan = input("Pilih satuan konversi (lb/ons/g) : ").lower()
