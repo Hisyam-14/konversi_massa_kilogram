@@ -1,6 +1,6 @@
 # konversi_massa_kilogram
 
-![konversi satuan massa killogram drawio (1)](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/f6a79b20-803b-4ef3-810a-099b45b20a88)
+![konversi satuan massa killogram drawio (2)](https://github.com/Hisyam-14/konversi_massa_kilogram/assets/109202315/9d954402-b6bd-4bd7-8efd-2d610b70a87d)
 
 User input nama, nim, dan password 
 
