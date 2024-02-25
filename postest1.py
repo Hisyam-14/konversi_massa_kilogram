@@ -25,6 +25,7 @@ def login():
         else:
             print("Data yang anda masukkan salah")
 
+print("berhasil")
 print("======================================")
 print("                LOGIN                 ")
 login()
